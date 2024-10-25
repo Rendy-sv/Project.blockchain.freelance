@@ -1,0 +1,16 @@
+# My Blockchain Project
+
+This project includes smart contracts for a staking system, marketplace, and voting system built on Ethereum.
+
+## Contracts
+
+- **Staking**: This contract allows users to stake tokens and earn rewards over time.
+- **Marketplace**: This contract enables users to buy and sell tokens within a marketplace setting.
+- **Voting**: This contract implements a voting system where token holders can propose and vote on changes or proposals.
+
+## Features
+
+- **Staking Rewards**: Users can earn rewards based on the amount of tokens staked and the duration of the staking.
+- **Marketplace Functionality**: Users can list tokens for sale and purchase tokens from others.
+- **Voting Mechanism**: Token holders can create proposals and vote on them, ensuring decentralized decision-making.
+
